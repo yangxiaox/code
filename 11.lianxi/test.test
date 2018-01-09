@@ -1,0 +1,4 @@
+%PRId8   %PRIu8   int8_t   uint8_t
+%PRId16  %PRIu16  int16_t  uint16_t
+%PRId32  %PRIu32  int32_t  uint32_t
+%PRId64  %PRIu64  int64_t  uint64_t
